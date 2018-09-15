@@ -1,5 +1,5 @@
 # abConduct
-GUI for abcm2ps with ability to create parts
+GUI for https://github.com/leesavide/abcm2ps with ability to create parts
 
 
 
