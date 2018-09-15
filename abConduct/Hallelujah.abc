@@ -1,0 +1,23 @@
+X:1%%titlefont Chalkboard 32%%annotationfont Chalkboard 16
+%%staves S A T B %Partitur
+%%score S %Sopran scale=0.75
+%%score A %Alt scale=0.67 barsperstaff=4
+%%score T %Tenor scale=0.75 barsperstaff=4
+%%score B %Bass scale=0.75 barsperstaff=4
+T:Hallelujah
+C:Leonard Cohen
+C:Arr. Reinhard Sasse
+M:6/8
+K:Cmaj%%scale 0.62
+V:S nm=Sopran snm=S"^Intro"z2Gc2c|z2Gc2c|z2Gc2c|z2Gc2c||w:Doo-doo-do Doo...
+|:"^Verse"z2Gc2c|z2Gc2c|z2Gc2c|z2Gc2c|
+z2Gc2c|z2Gc2B|z2Gc2c|z2GB2A|
+z2Gc2c|z2GB2B|z2Ac2c|z2Ad2c|z2Bd2d|z2Be2d|d2c-c2z|z3E2G||w:...-doo-do Doo Hal-le-lu-jah_ Hal-le"^Refrain"A3Az2|z3A2G|E3Ez2|z3E2G|w:lu-jah Hal-le-lu-jah Hal-leA3Az2|z3A2G|[1-4(E3-EFE|D3-D2C)|w:lu-jah Hal-le-lu-______Cz Gc2c|z2 Gc2c|z2Gc2c|z2Gc2c:|w:jah Doo-doo-doo Doo-doo-doo Doo...[5(E3-EFE)|D2zE2G|A3Az2|z3A2G|w:lu-___jah Hal-le-lu-jah Hal-le-lu-jah Hal-leE3Ez2|z3E2G|A3Az2|z3A2G|w:lu-jah Hal-le-lu-jah Hal-le-(E3-EFE|D3-D2C)|Cz Gc2c-|c3z3|]w:lu-______jah doo-doo-doo_
+V:A nm=Alt snm=AzEG- G G2|zEG- GG2|zEG- G G2|zEG- GG2||w:Doo-doo-_do Doo...|:zEG- G G2|zEG- GG2|zEG- G G2|zEG- GG2|
+zFG- G G2|zFG- G G2|zEG- G G2|zFG- GGF|
+zEG- G G2|zFG- G G2|zEA- A A2|zFA- AA2|zFB- B(AG)|zEB- BcB|(BA)E AED|Cz2CD2||w:...-doo-_doo_ Doo-doo_ Hal-le-lu-_jah Doo-doo-doo Doo Hal-le-F2C FC2|zA,C FCD|C2A, CA,2|z2A, CD2|w:lu-doo-jah-doo Doo-doo Ha-doo-le-lu-doo-jah-doo Doo Hal-leF2C FC2|zA,C FCD|[1-4C2G, (CDC|B,2)G, B,(G,A,|w:lu-doo-jah-doo Doo-doo Ha-doo-le-lu-doo-doo-___ doo-doo-doo-_G,)C2EG2|zEG- GG2|zEG- G G2|zEG- GG2:|w:_jah Doo-doo Doo-doo-_do Doo...[5C2G, (CDC)|B,2zCD2|F2C FC2|zA,C FCD|C2A, CA,2|z2A, CD2|w:lu-doo-doo-__jah Hal-le- lu-doo-jah-doo Doo-doo Ha-doo-le-lu-doo-jah-doo Doo Hal-leF2C FC2|zA,C FCD|C2G, (CDC|B,2)G, B,(G,A,|w:lu-doo-jah-doo Doo-doo Ha-doo-le-lu-doo-doo-___ doo-doo-doo-_G,)C2E(G2|E3)z3|]w:_jah Doo-doo_
+V:T nm=Tenor snm=Tce2-e2e|Ae2-e2e|ce2-e2e|Ae2-e2e||w:Doo-doo-_do Doo...|:ce2-e2e|Ae2-e2e|ce2-e2e|Ae2-e2e|cf2-f2f|df2-f2f|ce2-e2e|df2-fed|ce2-e2e|cf2-f2e|Ae2-e2e|cf2-f2e|df2-f2e|de2-e2e|Ac2-c2B|Az2AB2||w:...-doo_do Doo-doo-_do Hal-le-_lu-jah Hal-le-cA2cz A|FA2c2B|AE2Az2|zE2AB2|w:lu-doo-jah Doo-doo-doo Hal-le-lu-doo-jah Doo Hal-le-cA2cz A|FA2c2A|[1-4G(E2G)G2-|G(D2E2)F|w:lu-doo-jah Doo-doo-doo Hal-le-lu-doo-_doo-_doo-_doo-jah(E2c2)ze|Ae2-e2e|ce2-e2e|Ae2-e2e:|w:jah_ ...doo Doo-doo-_doo Doo...[5G(E2G)G2|Gz G AB2|cA2cz A|FA2c2B|AE2Az2|zE2AB2|w:lu-doo-_doo-jah Doo Hal-le-lu-doo-jah Doo-doo-doo Hal-le-lu-doo-jah Doo Hal-le-cA2cz A|FA2c2A|G(E2G)G2-|G(D2E2)F|w:lu-doo-jah Doo-doo-doo Hal-le-lu-doo-_doo-_doo-_doo-jah(E2c2) z e|c3z3|]w:jah_ Doo-doo
+V:B nm=Bass snm=BC3-C2B,|A,3-A,2B,|C3-C2B,|A,3-A,2G,||w:Doo-_do Doo...
+|:C3-C2B,|A,3-A,2B,|C3-C2B,|A,3-A,2G,|
+F,3-F,2F,|G,3-G,2G,|C3-C2B,|G,3G,A,B,|
+C3-C2G,|F,3G,3|A,3-A,2G,|F,3-F,2F,|G,3-G,2G,|^G,3-G,2G,|A,3-A,2E,|A,,z2E,2G,||w:...-_doo Doo_ Hal-le-_lu-jah Hal-leF,3F, zC,|F,3F,2E,|A,,3A,,z E,|A,,2zE,2G,|w:lu-jah Doo-doo Hal-le-lu-jah Doo-doo Hal-leF,3F, zC,|F,3F,2E,|[1-4C,3-C,2C,|G,,3-G,,2G,,|w:lu-jah Doo-doo Hal-le-lu_doo-doo-_doo-C,E,(G,C2)B,|A,3-A,2B,|C3-C2B,|A,3-A,2G,:|w:doo-doo-doo-ah-doo Doo-_doo Doo...[5C,3-C,2C,|G,,D,2E,2G,|F,3F, zC,|F,3F,2E,|A,,3A,,z E,|A,,2zE,2G,|w:lu_doo-jah Doo Hal-le-lu-jah Doo-doo Hal-le-lu-jah Doo-doo Hal-leF,3F, zC,|F,3F,2E,|C,3-C,2C,|G,,3-G,,2G,,|w:lu-jah Doo-doo Hal-le-lu_doo-doo-_doo-C,E,(G,C3-)|C3z3|]w:doo-doo-doo-ah_

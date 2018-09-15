@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>abcm2ps.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4A8CA020213A80AA00F20E35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4A8CA039213A80AC00F20E35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4A8CA044213A80AC00F20E35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
